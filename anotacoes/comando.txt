@@ -1,0 +1,4 @@
+git init - inicializa um repositorio git
+git status - verifica o status do repositorio
+git add - voce adiciona arquivos para serem rastreados com esse comando (ex.: git add a.txt)
+git add . - adiciona todos os arquivos no rastreio do git
